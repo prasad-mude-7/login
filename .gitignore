@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+logs
+*.wt
+*.lock
+*.bson
+WiredTiger.*
+WiredTiger
+.env
